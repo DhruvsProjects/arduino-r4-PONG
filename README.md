@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/0e0c08d0-06ea-4960-bbe1-327881711188
 ---
 
 ## Wiring
-<img width="124" height="150" alt="arduino_pong_wiring_diagram" src="https://github.com/user-attachments/assets/087b445f-392c-44dd-af3d-46d55968f956" />
+<img width="1240" height="1500" alt="arduino_pong_wiring_diagram" src="https://github.com/user-attachments/assets/087b445f-392c-44dd-af3d-46d55968f956" />
 
 ---
 
